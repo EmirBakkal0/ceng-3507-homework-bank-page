@@ -126,8 +126,10 @@ ul {
   }
  li {
     border: 2px solid black;
+    border-radius: 20px;
     margin: 2px;
     padding: 2px 4px;
+    background: brown;
  }
 
 footer{
@@ -142,6 +144,9 @@ footer{
     border: 2px solid black;
     border-radius: 20px;
     background: white;
+
+    padding: 10px;
+
 }
 
 .absolute{
