@@ -16,7 +16,7 @@ header {
   flex-wrap: wrap;  
   justify-content: space-between;  
   align-items: center;  
-  background-image: url(/assets/cow_pattern.jpg);  
+  background-image: url(assets/cow_pattern.jpg);  
   background-repeat: repeat;
 }
 
